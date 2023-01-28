@@ -1,7 +1,9 @@
 import configparser
+import os
+from pathlib import Path
 
 config = configparser.RawConfigParser()
-config.read("..//Configurations//config.ini")
+config.read('/Users/georgeashraf/My-Github/Hybrid_Framework_Selenium_Python/Configurations/config.ini')
 
 
 class ReadConfig:
