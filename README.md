@@ -15,6 +15,7 @@ The framework has:
 * Ability to use common actions for test steps (conftest.py)
 * Common fields stored in configuration file(config.ini)
 * File to read the stored configuration in order to be used in tests (readProperties.py)
+* Log mechanism to log the execution of test cases (customLogger.py)
 
 AUT:
 * FrontEnd: https://demo.nopcommerce.com
