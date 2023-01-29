@@ -16,7 +16,17 @@ The framework has:
 * Common fields stored in configuration file(config.ini)
 * File to read the stored configuration in order to be used in tests (readProperties.py)
 * Log mechanism to log the execution of test cases (customLogger.py)
+* Run parallel test/ Cross browser tests (conftest.py)
 
 AUT:
 * FrontEnd: https://demo.nopcommerce.com
 * BackEnd: https://admin-demo.nopcommerce.com/
+
+### Notes:
+#### To run tests on desired browser:
+* pytest -v -s test_Cases/test_login.py --browser chrome
+* pytest -v -s test_Cases/test_login.py --browser firefox
+
+#### To run tests parallel:
+* pytest -v -s -n=3 test_Cases/test_login.py --browser chrome
+* pytest -v -s -n=3 test_Cases/test_login.py --browser firefox
