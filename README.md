@@ -17,6 +17,7 @@ The framework has:
 * File to read the stored configuration in order to be used in tests (readProperties.py)
 * Log mechanism to log the execution of test cases (customLogger.py)
 * Run parallel test/ Cross browser tests (conftest.py)
+* Generate HTML report in Reports folder (conftest.py)
 
 AUT:
 * FrontEnd: https://demo.nopcommerce.com
@@ -30,3 +31,6 @@ AUT:
 #### To run tests parallel:
 * pytest -v -s -n=3 test_Cases/test_login.py --browser chrome
 * pytest -v -s -n=3 test_Cases/test_login.py --browser firefox
+
+#### To Generate Pytest HTML Reports:
+* pytest -v -s -n=3 --html=Reports/report.html test_Cases/test_login.py --browser chrome
