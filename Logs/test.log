@@ -18,3 +18,42 @@
 01/29/2023 03:57:47 AM: INFO: **************** Verifying Login Test ****************
 01/29/2023 03:57:50 AM: INFO: **************** Home page title test passed ****************
 01/29/2023 03:57:55 AM: INFO: **************** Login test passed ****************
+01/29/2023 04:54:12 AM: INFO: **************** Test_002_DDT_Login ****************
+01/29/2023 04:54:12 AM: INFO: **************** Verifying Login DDT Test ****************
+01/29/2023 04:54:26 AM: INFO: **** Passed ****
+01/29/2023 04:56:31 AM: INFO: **************** Test_002_DDT_Login ****************
+01/29/2023 04:56:31 AM: INFO: **************** Verifying Login DDT Test ****************
+01/29/2023 04:56:45 AM: INFO: **** Passed ****
+01/29/2023 04:56:47 AM: INFO: **** Login DDT test passed ****
+01/29/2023 05:04:54 AM: INFO: **************** Test_002_DDT_Login ****************
+01/29/2023 05:04:54 AM: INFO: **************** Verifying Login DDT Test ****************
+01/29/2023 05:05:08 AM: INFO: **** Passed ****
+01/29/2023 05:05:15 AM: INFO: **** Passed ****
+01/29/2023 05:05:20 AM: INFO: **** Passed ****
+01/29/2023 05:05:27 AM: INFO: **** Passed ****
+01/29/2023 05:05:27 AM: INFO: **** Login DDT test passed ****
+01/29/2023 05:05:27 AM: INFO: ****** End of Login DDT Test ******
+01/29/2023 05:06:45 AM: INFO: **************** Test_002_DDT_Login ****************
+01/29/2023 05:06:45 AM: INFO: **************** Verifying Login DDT Test ****************
+01/29/2023 05:06:56 AM: INFO: **** Passed ****
+01/29/2023 05:07:03 AM: INFO: **** Passed ****
+01/29/2023 05:07:08 AM: INFO: **** Passed ****
+01/29/2023 05:07:14 AM: INFO: **** Passed ****
+01/29/2023 05:07:14 AM: INFO: **** Login DDT test passed ****
+01/29/2023 05:07:15 AM: INFO: ****** End of Login DDT Test ******
+01/29/2023 05:07:44 AM: INFO: **************** Test_002_DDT_Login ****************
+01/29/2023 05:07:44 AM: INFO: **************** Verifying Login DDT Test ****************
+01/29/2023 05:07:55 AM: INFO: **** Passed ****
+01/29/2023 05:08:02 AM: INFO: **** Passed ****
+01/29/2023 05:08:08 AM: INFO: **** Passed ****
+01/29/2023 05:08:14 AM: INFO: **** Passed ****
+01/29/2023 05:08:14 AM: INFO: **** Login DDT test passed ****
+01/29/2023 05:08:14 AM: INFO: ****** End of Login DDT Test ******
+01/29/2023 05:10:44 AM: INFO: **************** Test_002_DDT_Login ****************
+01/29/2023 05:10:44 AM: INFO: **************** Verifying Login DDT Test ****************
+01/29/2023 05:11:00 AM: INFO: **** Passed ****
+01/29/2023 05:11:07 AM: INFO: **** Passed ****
+01/29/2023 05:11:13 AM: INFO: **** Passed ****
+01/29/2023 05:11:19 AM: INFO: **** Passed ****
+01/29/2023 05:11:19 AM: INFO: **** Login DDT test passed ****
+01/29/2023 05:11:19 AM: INFO: ****** End of Login DDT Test ******

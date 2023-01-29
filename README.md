@@ -16,8 +16,9 @@ The framework has:
 * Common fields stored in configuration file(config.ini)
 * File to read the stored configuration in order to be used in tests (readProperties.py)
 * Log mechanism to log the execution of test cases (customLogger.py)
-* Run parallel test/ Cross browser tests (conftest.py)
-* Generate HTML report in Reports folder (conftest.py)
+* Ability to Run parallel test/ Cross browser tests (conftest.py)
+* Ability to Generate HTML report in Reports folder (conftest.py)
+* Data Driven Test Case(test_login_ddt, XLUtils.py, LoginData.xlsx)
 
 AUT:
 * FrontEnd: https://demo.nopcommerce.com
