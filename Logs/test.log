@@ -57,3 +57,16 @@
 01/29/2023 05:11:19 AM: INFO: **** Passed ****
 01/29/2023 05:11:19 AM: INFO: **** Login DDT test passed ****
 01/29/2023 05:11:19 AM: INFO: ****** End of Login DDT Test ******
+01/29/2023 03:08:07 PM: INFO: **************** Test_002_DDT_Login ****************
+01/29/2023 03:08:07 PM: INFO: **************** Verifying Login DDT Test ****************
+01/29/2023 03:08:21 PM: INFO: **** Passed ****
+01/29/2023 03:08:28 PM: INFO: **** Passed ****
+01/29/2023 03:08:33 PM: INFO: **** Passed ****
+01/29/2023 03:08:39 PM: INFO: **** Passed ****
+01/29/2023 03:08:39 PM: INFO: **** Login DDT test passed ****
+01/29/2023 03:08:39 PM: INFO: ****** End of Login DDT Test ******
+02/04/2023 02:29:28 AM: INFO: **************** Test_001_Login ****************
+02/04/2023 02:29:28 AM: INFO: **************** Verifying Home Page Title ****************
+02/04/2023 02:29:31 AM: INFO: **************** Home page title test passed ****************
+02/04/2023 02:29:34 AM: INFO: **************** Verifying Login Test ****************
+02/04/2023 02:29:39 AM: INFO: **************** Login test passed ****************
