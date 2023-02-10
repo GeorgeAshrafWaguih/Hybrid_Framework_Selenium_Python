@@ -14,7 +14,7 @@ class AddCustomer:
     txtcustomerRole_xpath = '//*[@id="customer-info"]/div[2]/div[10]/div[2]/div/div[1]/div/div'
     lstitemAdministrators_xpath = '//*[@id="SelectedCustomerRoleIds_listbox"]/li[1]'
     lstitemRegistered_xpath = '//*[@id="SelectedCustomerRoleIds_listbox"]/li[4]'
-    lstitemGuests_xpath = '//*[@id="9eb4012a-6f1a-4f72-a691-e80ee592af10"]'
+    lstitemGuests_xpath = "//li[contains(text(),'Guests')]"
     lstitemVendors_xpath = '//*[@id="SelectedCustomerRoleIds_listbox"]/li[5]'
     drpmgrOfVendor_xpath = '//*[@id="VendorId"]'
     rdMaleGender_id = "Gender_Male"
@@ -26,11 +26,11 @@ class AddCustomer:
     txtAdminContent_xpath = '//*[@id="AdminComment"]'
     btnSave_xpath = '/html/body/div[3]/div[1]/form/div[1]/div/button[1]'
 
-    def __int__(self, driver):
+    def __init__(self, driver):
         self.driver = driver
 
     def clickOnCustomerMenu(self):
-        self.driver.find_element(By.Xpath, self.lnkCustomers_menu_xpath).click()
+        self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath).click()
 
     def clickOnCustomerMenuItem(self):
         self.driver.find_element(By.XPATH, self.lnkCustomers_menuitem_xpath).click()
@@ -53,7 +53,7 @@ class AddCustomer:
             self.listitem = self.driver.find_element(By.XPATH, self.lstitemAdministrators_xpath)
         elif role == 'Guests':
             time.sleep(3)
-            self.driver.find_element(By.XPATH, "//*[@id='SelectedCustomerRoleIds_taglist']/li/span[2]").click()
+            self.driver.find_element(By.XPATH, '//*[@id="SelectedCustomerRoleIds_taglist"]/li[1]/span[2]').click()
             self.listitem = self.driver.find_element(By.XPATH, self.lstitemGuests_xpath)
         elif role == 'Registered':
             self.listitem = self.driver.find_element(By.XPATH, self.lstitemRegistered_xpath)
@@ -62,6 +62,7 @@ class AddCustomer:
         else:
             self.listitem = self.driver.find_element(By.XPATH, self.lstitemGuests_xpath)
         time.sleep(3)
+        self.driver.find_element(By.XPATH, self.txtcustomerRole_xpath).click()
         self.driver.execute_script("arguments[0].click();", self.listitem)
 
     def setManagerOfVendor(self, value):
@@ -70,11 +71,11 @@ class AddCustomer:
 
     def setGender(self, gender):
         if gender =='Male':
-            self.driver.find_element(By.XPATH, self.rdMaleGender_id).click()
+            self.driver.find_element(By.ID, self.rdMaleGender_id).click()
         elif gender =='Female':
-            self.driver.find_element(By.XPATH, self.rdFeMaleGender_id).click()
+            self.driver.find_element(By.ID, self.rdFeMaleGender_id).click()
         else:
-            self.driver.find_element(By.XPATH, self.rdMaleGender_id).click()
+            self.driver.find_element(By.ID, self.rdMaleGender_id).click()
 
     def setFirstName(self, fname):
         self.driver.find_element(By.XPATH, self.txtFirstName_xpath).send_keys(fname)

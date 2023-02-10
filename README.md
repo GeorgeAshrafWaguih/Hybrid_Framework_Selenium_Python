@@ -19,7 +19,7 @@ The framework has:
 * Ability to Run parallel test/ Cross browser tests (conftest.py)
 * Ability to Generate HTML report in Reports folder (conftest.py)
 * Data Driven Test Case(test_login_ddt, XLUtils.py, LoginData.xlsx)
-* The ability to add tests to existing framework 
+* The ability to add tests to existing framework (AddcustomerPage.py , test_addCustomer.py)
 
 AUT:
 * FrontEnd: https://demo.nopcommerce.com
