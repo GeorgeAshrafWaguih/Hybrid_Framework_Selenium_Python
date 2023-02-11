@@ -112,3 +112,26 @@
 02/10/2023 04:04:15 AM: INFO: ******** Add Customer Validation started ********
 02/10/2023 04:04:15 AM: INFO: ******** Add Customer Test Passed ********
 02/10/2023 04:04:15 AM: INFO: ******** Ending Add Customer Test ********
+02/10/2023 07:13:43 PM: INFO: ******** SearchCustomerByEmail_004 ********
+02/10/2023 07:13:51 PM: INFO: ******** Login successful ********
+02/10/2023 07:13:51 PM: INFO: ******** Starting Search Customer by Email ********
+02/10/2023 07:13:53 PM: INFO: ******** Searching Customer By Email ********
+02/11/2023 02:59:16 AM: INFO: ******** SearchCustomerByName_005 ********
+02/11/2023 02:59:24 AM: INFO: ******** Login successful ********
+02/11/2023 02:59:24 AM: INFO: ******** Starting Search Customer by Email ********
+02/11/2023 02:59:26 AM: INFO: ******** Searching Customer By Email ********
+02/11/2023 02:59:30 AM: INFO: ******** SearchCustomerByName_005 Finished ********
+02/11/2023 03:02:05 AM: INFO: ******** SearchCustomerByEmail_004 ********
+02/11/2023 03:02:12 AM: INFO: ******** Login successful ********
+02/11/2023 03:02:12 AM: INFO: ******** Starting Search Customer by Email ********
+02/11/2023 03:02:14 AM: INFO: ******** Searching Customer By Email ********
+02/11/2023 03:02:18 AM: INFO: ******** SearchCustomerByEmail_004 Finished ********
+02/11/2023 03:02:53 AM: INFO: ******** SearchCustomerByEmail_004 ********
+02/11/2023 03:03:03 AM: INFO: ******** Login successful ********
+02/11/2023 03:03:03 AM: INFO: ******** Starting Search Customer by Email ********
+02/11/2023 03:03:06 AM: INFO: ******** Searching Customer By Email ********
+02/11/2023 03:03:09 AM: INFO: ******** SearchCustomerByEmail_004 Finished ********
+02/11/2023 03:03:26 AM: INFO: ******** SearchCustomerByEmail_004 ********
+02/11/2023 03:03:36 AM: INFO: ******** Login successful ********
+02/11/2023 03:03:36 AM: INFO: ******** Starting Search Customer by Email ********
+02/11/2023 03:03:38 AM: INFO: ******** Searching Customer By Email ********
