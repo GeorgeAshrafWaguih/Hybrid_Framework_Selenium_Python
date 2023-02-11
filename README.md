@@ -36,3 +36,10 @@ AUT:
 
 #### To Generate Pytest HTML Reports:
 * pytest -v -s -n=3 --html=Reports/report.html test_Cases/test_login.py --browser chrome
+
+#### To Run specific Pytest tests with markers:
+* pytest -s -v -m "sanity and regression" --html=Reports/report.html testCases/ --browser chrome (This means sanity and regression tests)
+* pytest -s -v -m "sanity and regression" --html=Reports/report.html testCases/ --browser chrome (This means sanity or regression tests)
+* pytest -s -v -m "sanity" --html=Reports/report.html testCases/ --browser chrome (This means only sanity tests)
+
+

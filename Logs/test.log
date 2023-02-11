@@ -135,3 +135,44 @@
 02/11/2023 03:03:36 AM: INFO: ******** Login successful ********
 02/11/2023 03:03:36 AM: INFO: ******** Starting Search Customer by Email ********
 02/11/2023 03:03:38 AM: INFO: ******** Searching Customer By Email ********
+02/11/2023 03:53:48 AM: INFO: ******** Test_003_AddCustomer ********
+02/11/2023 03:54:07 AM: INFO: ******** Login Successful ********
+02/11/2023 03:54:07 AM: INFO: ******** Starting Adding Customer Test ********
+02/11/2023 03:54:14 AM: INFO: ******** Filling Customer Info ********
+02/11/2023 03:54:27 AM: INFO: ******** Saving Customer Info ********
+02/11/2023 03:54:27 AM: INFO: ******** Add Customer Validation started ********
+02/11/2023 03:54:27 AM: INFO: ******** Add Customer Test Passed ********
+02/11/2023 03:54:27 AM: INFO: ******** Ending Add Customer Test ********
+02/11/2023 03:54:30 AM: INFO: **************** Verifying Login Test ****************
+02/11/2023 03:54:46 AM: INFO: **************** Login test passed ****************
+02/11/2023 03:55:06 AM: INFO: ******** Test_003_AddCustomer ********
+02/11/2023 03:55:32 AM: INFO: ******** Login Successful ********
+02/11/2023 03:55:32 AM: INFO: ******** Starting Adding Customer Test ********
+02/11/2023 03:55:38 AM: INFO: ******** Filling Customer Info ********
+02/11/2023 03:55:51 AM: INFO: ******** Saving Customer Info ********
+02/11/2023 03:55:51 AM: INFO: ******** Add Customer Validation started ********
+02/11/2023 03:55:51 AM: INFO: ******** Add Customer Test Passed ********
+02/11/2023 03:55:51 AM: INFO: ******** Ending Add Customer Test ********
+02/11/2023 03:55:54 AM: INFO: **************** Test_001_Login ****************
+02/11/2023 03:55:54 AM: INFO: **************** Verifying Home Page Title ****************
+02/11/2023 03:56:01 AM: INFO: **************** Home page title test passed ****************
+02/11/2023 03:56:04 AM: INFO: **************** Verifying Login Test ****************
+02/11/2023 03:56:14 AM: INFO: **************** Login test passed ****************
+02/11/2023 03:56:17 AM: INFO: **************** Test_002_DDT_Login ****************
+02/11/2023 03:56:17 AM: INFO: **************** Verifying Login DDT Test ****************
+02/11/2023 03:56:36 AM: INFO: **** Passed ****
+02/11/2023 03:56:45 AM: INFO: **** Passed ****
+02/11/2023 03:56:51 AM: INFO: **** Passed ****
+02/11/2023 03:56:57 AM: INFO: **** Passed ****
+02/11/2023 03:56:57 AM: INFO: **** Login DDT test passed ****
+02/11/2023 03:56:58 AM: INFO: ****** End of Login DDT Test ******
+02/11/2023 03:57:01 AM: INFO: ******** SearchCustomerByEmail_004 ********
+02/11/2023 03:57:12 AM: INFO: ******** Login successful ********
+02/11/2023 03:57:12 AM: INFO: ******** Starting Search Customer by Email ********
+02/11/2023 03:57:15 AM: INFO: ******** Searching Customer By Email ********
+02/11/2023 03:57:19 AM: INFO: ******** SearchCustomerByEmail_004 Finished ********
+02/11/2023 03:57:22 AM: INFO: ******** SearchCustomerByName_005 ********
+02/11/2023 03:57:38 AM: INFO: ******** Login successful ********
+02/11/2023 03:57:38 AM: INFO: ******** Starting Search Customer by Email ********
+02/11/2023 03:57:41 AM: INFO: ******** Searching Customer By Email ********
+02/11/2023 03:57:45 AM: INFO: ******** SearchCustomerByName_005 Finished ********
