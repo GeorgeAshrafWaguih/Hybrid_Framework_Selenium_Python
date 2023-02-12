@@ -42,4 +42,6 @@ AUT:
 * pytest -s -v -m "sanity and regression" --html=Reports/report.html testCases/ --browser chrome (This means sanity or regression tests)
 * pytest -s -v -m "sanity" --html=Reports/report.html testCases/ --browser chrome (This means only sanity tests)
 
+#### To run Jenkins war file on terminal:
+* java -jar jenkins.war
 
