@@ -1,5 +1,5 @@
 # Hybrid_Framework_Selenium_Python
-Hybrid driven Framework with:
+Hybrid driven Framework using:
 * Python
 * Selenium
 * Pytest
